@@ -32,8 +32,6 @@ public static void main(String[] args) {
    Moto moto1=new Moto();
    System.out.println("Velocimetro:");
    moto1.acelera(100);
-   moto1.acelera(5);
-   moto1.frena(4);
    moto1.frena(5);
 }
 }
